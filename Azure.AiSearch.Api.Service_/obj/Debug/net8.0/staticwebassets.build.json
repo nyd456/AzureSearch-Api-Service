@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3b+WAMaJbX5cN7H8rbGcq9UH86UsGMdaML//rodhMcc=",
+  "Source": "AzureSearch.Api.Service",
+  "BasePath": "_content/AzureSearch.Api.Service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
