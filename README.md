@@ -30,7 +30,9 @@ The data source is searched with two approaches:
 ![image](https://github.com/user-attachments/assets/7340d729-fb27-47a8-9345-a16a4a1463a0)
 
 ## Created Search Service Resource 
-![image](https://github.com/user-attachments/assets/5cc3559f-4731-4dfe-b039-5ba6dfca3285)
+![image](https://github.com/user-attachments/assets/1da51b17-bedb-414d-b43c-93a50321f2a3)
+
+
 
 
 ## csv file stored in the Azure Blob Storage
