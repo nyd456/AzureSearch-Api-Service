@@ -6,7 +6,7 @@ The project aims to:
   - **Entity Framework Core (EF Core)** 
     - Use model with EF Core to work with a database
 
-The dataset is searched with two approaches:
+The data source is searched with two approaches:
 - **Microsoft SQL Server Database Search**
 - **Azure AI Search** (**Azure.Search.Document**)
 
